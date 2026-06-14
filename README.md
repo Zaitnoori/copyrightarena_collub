@@ -225,3 +225,44 @@ Files prefixed with `demo` can be safely deleted. They are there to provide a st
 You can learn more about all of the offerings from TanStack in the [TanStack documentation](https://tanstack.com).
 
 For TanStack Start specific documentation, visit [TanStack Start](https://tanstack.com/start).
+
+# Hi 👋, I'm Zaitnoori
+
+### 🚀 Developer | Telegram Mini App Builder | Web Creator
+
+- 🌱 Learning Web Development
+- 🤖 Building Telegram Bots & Mini Apps
+- 💻 Interested in HTML, JavaScript & Blockchain
+- 🌍 From Afghanistan
+
+---
+
+## 🛠 Skills
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📌 Projects
+
+### 🚀 ZUSDD Mini App
+Telegram Mini App for the ZUSDD community.
+
+### 🤖 Telegram Bots
+Custom Telegram bots and automation tools.
+
+### 🌐 Websites
+Simple and modern websites deployed on Vercel and Netlify.
+
+---
+
+## 📫 Contact
+
+- Telegram: @copyrightarena
+- GitHub: https://github.com/Zaitnoori
+
+---
+
+⭐ Thanks for visiting my profile!
